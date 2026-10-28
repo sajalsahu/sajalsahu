@@ -39,12 +39,11 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
 </p>
 <div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" /></div>
-<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" /></div>
 <h3>📊 GitHub Stats:</h3>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalsahu&theme=dark&hide_border=false" alt="streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sajalsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalsahu&theme=dark&hide_border=false" alt="streak" />
+</p>
+<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" /></div>
 <h4>📬 Reach me out</h4>
 <p>
   <a href="https://www.linkedin.com/in/sajal-sahu"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
